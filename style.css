@@ -1,0 +1,25 @@
+body{
+background-color: lightgray
+}
+h1{
+  color: blue
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 3px 2px darkgray;
+}
+p{
+  font-family: "Times New Roman", Times, serif;
+  }
+  .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+}
+img
+{border: 5px solid blue}
+h2{
+  color: blue
+}
