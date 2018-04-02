@@ -1,8 +1,8 @@
 body{
-background-color: lightgray
+background-color: MediumSeaGreen
 }
 h1{
-  color: blue
+  color: yellow
 }
 h1{
   text-align: center;
@@ -18,8 +18,12 @@ p{
       margin-right: auto;
       width: 50%;
 }
-img
-{border: 5px solid blue}
+img{border: 5px solid yellow;
+}
+
 h2{
   color: blue
-} 
+}
+table, th, td {
+   border: 10px solid black;
+}
